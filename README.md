@@ -27,7 +27,7 @@ sudo AddPath -t <file_or_folder>
 sudo AddPath -t File.py
 ```
 
-### Uninstall the Script
+### Uninstall from $PATH
 ```bash
 sudo AddPath -u
 ```
