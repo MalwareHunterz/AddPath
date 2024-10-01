@@ -1,5 +1,5 @@
-```markdown ```
 # AddPath Script - by MalwareHunterz
+![addpath](https://github.com/user-attachments/assets/c49a7b8c-fab9-4eb6-9819-c17a36cd01c5)
 
 ## Overview
 **AddPath** is a utility designed to streamline the process of adding scripts or executables to your system's `$PATH`. Once added, you can execute those scripts from any terminal location without having to type the full path each time. This tool also allows you to cleanly remove entries from `$PATH` when they're no longer needed.
