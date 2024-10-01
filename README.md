@@ -1,4 +1,4 @@
-```markdown
+```markdown ```
 # AddPath Script - by MalwareHunterz
 
 ## Overview
